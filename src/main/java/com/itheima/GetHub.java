@@ -8,6 +8,9 @@ public class GetHub {
     private String name3;
     private String name4;
     private String name6;
-    private String name7;
+
+    private String name66;
+    private String name76;
+    private String name76w;
 
 }
