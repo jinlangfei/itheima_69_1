@@ -12,5 +12,6 @@ public class GetHub {
     private String name66;
     private String name76;
     private String name76w;
+    private String name76w1;
 
 }
